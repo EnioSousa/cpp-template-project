@@ -1,6 +1,6 @@
 # Cpp-template-project
 
-Template structure for a c++ project with cmake and unity tests
+Template structure for a c++ project with cmake and googletests
 
 # Why this exists?
 
